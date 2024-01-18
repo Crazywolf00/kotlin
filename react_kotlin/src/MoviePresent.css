@@ -1,0 +1,19 @@
+th {
+    padding: 20px;
+    border: 5px solid #444444;
+    cursor: pointer;
+}
+
+td{
+    padding: 20px;
+    border: 5px solid gray;
+}
+
+table {
+    border: 5px solid black;
+    width: 100%;
+}
+label {
+    display: flex;
+}
+

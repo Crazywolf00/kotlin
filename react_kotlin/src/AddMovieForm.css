@@ -1,0 +1,7 @@
+#movieFormMainBox {
+    display: flex;
+}
+label {
+    display: flex;
+    flex-direction: column;
+}
